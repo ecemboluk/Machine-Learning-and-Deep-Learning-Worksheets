@@ -11,3 +11,4 @@ geldikçe güncellemeye çalışacağım. Notebook'ları Google Colab üzerinden
 ## Derin Öğrenme Konuları
 
 * Generative Adversarial Algoritması
+* Autoencoder Algoritması
